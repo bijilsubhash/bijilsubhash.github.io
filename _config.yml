@@ -9,7 +9,7 @@ name: Bijil Subhash
 description: Data Engineer from Sydney
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/_DSC0862~3.jpg
+avatar: https://avatars.githubusercontent.com/u/83150163?v=4
 
 #
 # Flags below are optional
@@ -21,9 +21,9 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: github.com/bijilsubhash
+  github: bijilsubhash
   instagram:
-  linkedin: linkedin.com/in/bijilsubhash
+  linkedin: bijilsubhash
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: 
