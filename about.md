@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Hello! I am Bijil. This is my technical blog where I share things that I learn within data and artificial intelligence. 
+Hello! I am Bijil. This is my technical blog where I share things that I learn in the data and artificial intelligence realm. 
 
 ### More Information
 
