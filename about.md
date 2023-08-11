@@ -4,12 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hello! I am Bijil. This is my technical blog where I share things that I learn within data and artificial intelligence. 
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+- I am naturally curious and often find myself diving deep into challenging problems. 
+- I enjoy writing as it helps solidify my own learnings.
+- I hope you find my ramble useful in your own endeavours.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+bijil.subhash at gmail
